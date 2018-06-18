@@ -1,9 +1,3 @@
-# 策略模式
-## UML类图
-![image](UMLDuck.jpg)
-![image](DuckUml.png)
-## 测试
-```java
 public class Main {
 
     public static void main ( String[] args ) {
@@ -24,7 +18,3 @@ public class Main {
     }
 
 }
-
-```
-测试结果：
-![image](testResult.png)
